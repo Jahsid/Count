@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+.Count {
+  font-size: 20vh;
+  color: gray;
+}
+
+.btn {
+  background-color: gray;
+  border-radius: 50%;
+  padding: 75px;
+  margin: 20px 5px;
+  font-size: 50px;
+}
+
+.btn:hover {
+  background-color: #fc6a85; 
+}
